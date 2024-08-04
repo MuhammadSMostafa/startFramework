@@ -1,0 +1,13 @@
+.not-found{
+  height: 80vh;
+  background-color: var(--secondary-color);
+  display: grid;
+  place-content: center;
+  color: white;
+}
+.not-found h6{
+  font-size: 50px;
+  border-radius: 50px;
+  background-color: var(--main-color);
+  padding: 20px;
+}

@@ -1,0 +1,10 @@
+:root {
+  --main-color: #2c3e50;
+  --secondary-color: #1ABC9C;
+}
+p {
+  margin: 0;
+}
+section{
+  margin-top: 80px;
+}

@@ -1,0 +1,29 @@
+footer {
+  color: white;
+}
+footer .information {
+  background-color: var(--main-color);
+}
+footer .information .icon {
+  border: 1px solid white;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  cursor: pointer;
+}
+footer .information .icon i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+footer .information .icon:hover{
+  background-color: var(--secondary-color);
+}
+footer .copy-rights {
+  background-color: #1a252f;
+}
+footer .information h3 {
+  font-size: 28px;
+  font-weight: 500;
+}

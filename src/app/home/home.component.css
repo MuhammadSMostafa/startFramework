@@ -1,0 +1,15 @@
+.home {
+  background-color: var(--secondary-color);
+  color: white;
+}
+.content {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.home .img {
+  width: 250px;
+}
