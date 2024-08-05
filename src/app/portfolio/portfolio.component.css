@@ -16,7 +16,7 @@
   place-content: center;
 }
 .show-img-container .full-img {
-  width: 600px;
+  max-width: 600px;
 }
 .portfolio .img {
   position: relative;
